@@ -1,0 +1,30 @@
+.image {
+  width: 225px;
+}
+
+.visited-list {
+  width: 18vw;
+}
+
+.name-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.name-button {
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+}
+
+.remove-button {
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  background-color: transparent;
+  border: 1px solid #f1f5f9;
+  color: white;
+  border-radius: 6px;
+}
